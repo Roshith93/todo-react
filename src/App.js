@@ -9,7 +9,7 @@ class App extends Component {
     todos : [
       {
         id:uuid.v4(),
-        title:"Add fuck",
+        title:"Add love",
         isCompleted : true
       },
       {
